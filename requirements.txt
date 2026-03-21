@@ -1,0 +1,9 @@
+groq
+duckduckgo-search
+beautifulsoup4
+requests
+fastapi
+uvicorn
+streamlit
+langfuse>=2.0.0,<3.0.0
+python-dotenv
